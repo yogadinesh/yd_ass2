@@ -2,6 +2,9 @@ streamlit
 langchain
 langchain-core
 langchain-community
+langchain-experimental
 langchain-groq
 groq
+pandas
+tabulate
 python-dotenv
