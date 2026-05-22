@@ -1,3 +1,7 @@
 streamlit
-transformers
-torch
+langchain
+langchain-core
+langchain-community
+langchain-groq
+groq
+python-dotenv
