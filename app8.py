@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
+import transformers
 
 from langchain_groq.chat_models import ChatGroq
 from langchain_experimental.agents.agent_toolkits.pandas.base import (
