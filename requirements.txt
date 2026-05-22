@@ -1,3 +1,7 @@
+gradio
+transformers
+torch
+accelerate
 streamlit
 pandas==2.1.4
 langchain
